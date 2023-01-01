@@ -7,7 +7,7 @@ using UnityEngine;
 
 // ReSharper disable InconsistentNaming
 
-namespace MyProject
+namespace Kogane
 {
     [Serializable]
     public struct JsonAssetBundleBuilds

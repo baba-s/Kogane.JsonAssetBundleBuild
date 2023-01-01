@@ -5,7 +5,7 @@ AssetBundleBuild 構造体を JSON 形式の文字列に変換できるパッケ
 ## 使用例
 
 ```cs
-using MyProject;
+using Kogane;
 using UnityEditor;
 using UnityEngine;
 
